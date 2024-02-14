@@ -7,6 +7,7 @@ Questo progetto presenta un Carosello 3D implementato completamente con linguagg
 - [Panoramica](#Panoramica)
   - [La sfida](#La-sfida)
   - [Screenshot](#screenshot)
+  - [Costruito con](#costruito-con)
 
 
 ## Panoramica
@@ -18,3 +19,10 @@ In allegato troverete le screenshot per vedere il layout anche nelle versioni re
 
 ### Screenshot
 ![screenshot](https://github.com/danieldorazio/CSS_3D_Rotating_Image-main/assets/133901578/0a88d2d9-f38a-4530-a624-d5de7d3800fb)
+
+### Costruito con
+
+- Semantica HTML5 markup
+- CSS
+- Javascript Plain
+  
