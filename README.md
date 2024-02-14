@@ -17,5 +17,4 @@ Il layout di questo esercizio è diverso da classiche pagine web: il contenuto d
 In allegato troverete le screenshot per vedere il layout anche nelle versioni responsive.
 
 ### Screenshot
-![](img/screenshot.png)
-
+![screenshot](https://github.com/danieldorazio/CSS_3D_Rotating_Image-main/assets/133901578/0a88d2d9-f38a-4530-a624-d5de7d3800fb)
